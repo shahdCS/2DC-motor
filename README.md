@@ -1,2 +1,2 @@
 # 2DC-motor
-DC motor by using Tinkkercad
+DC motor by using Tinkercad
